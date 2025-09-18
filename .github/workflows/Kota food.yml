@@ -1,4 +1,4 @@
-name: CI
+name: KOTA Food
 on: 
   push:
     branches: [ "main" ]
